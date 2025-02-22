@@ -1,0 +1,1 @@
+curl -f "https://ourworldindata.org/grapher/global-plastics-production.csv?v=1&csvType=full&useColumnShortNames=true"
