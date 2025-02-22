@@ -4,8 +4,7 @@ toc: false
 
 <div class="hero">
   <h1>Wiser Metrics for a Wiser World</h1>
-  <h2>Tracking the metrics that matter for a radically wiser world.</h2>
-  <h3>A project of<br /><a href="https://lifeitself.org/"><img src="https://lifeitself.org/assets/tao/horizontal-color-logo.png" width="150" /></a></h3>
+  <h2>Tracking the metrics that matter for a radically wiser world. <br /><br /><a href="https://lifeitself.org/"><img src="https://lifeitself.org/assets/tao/horizontal-color-logo.png" width="125" /></a></h2>
 </div>
 
 
@@ -82,7 +81,7 @@ const lpi = FileAttachment("./data/livingplanet.csv").csv({typed: true});
 .hero h2 {
   margin: 0;
   max-width: 34em;
-  font-size: 20px;
+  font-size: 7vw;
   font-style: initial;
   font-weight: 500;
   line-height: 1.5;
