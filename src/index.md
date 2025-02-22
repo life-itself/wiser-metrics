@@ -3,8 +3,9 @@ toc: false
 ---
 
 <div class="hero">
-  <h1>Wiser Metrics</h1>
-  <h2>Metrics that matter for a radically wiser world.</h2>
+  <h1>Wiser Metrics for a Wiser World</h1>
+  <h2>Tracking the metrics that matter for a radically wiser world.</h2>
+  <h3>A project of<br /><a href="https://lifeitself.org/"><img src="https://lifeitself.org/assets/tao/horizontal-color-logo.png" width="150" /></a></h3>
 </div>
 
 
